@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "SnapTask - Convert Screenshots to Tasks",
   description: "Transform your screenshots into actionable tasks with AI-powered OCR and categorization",
-    generator: 'v0.dev'
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
